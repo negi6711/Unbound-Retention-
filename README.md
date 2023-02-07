@@ -1,5 +1,6 @@
 # Unbound-Retention-
 This project a replica of the kindof project I worked on professionally on a vely larger scale database 
+Dataset used: https://www.kaggle.com/datasets/braniac2000/retail-dataset
 
 
 A client I worked with in a retail project requested a retention report for a specified period. The challenge was to not only provide the retention rate, but also identify which campaigns were less successful and resulted in lower-value customers.
